@@ -1,0 +1,27 @@
+a {
+    color: red;
+}
+
+a:hover {
+    color: lime;
+}
+
+p {
+    font-family: 'Arial';
+}
+
+h1 + p {
+    font-weight: 700;
+}
+
+.mudança {
+    font-family: Arial;
+}
+
+p.mudança {
+    font-weight: 700;
+}
+
+strong.mudança {
+    color: red;
+}

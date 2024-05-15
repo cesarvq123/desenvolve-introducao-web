@@ -1,0 +1,16 @@
+/*
+.Design-gráfico-1-hex { color: #EDF25E; }
+.Design-gráfico-2-hex { color: #F2E963; }
+.Design-gráfico-3-hex { color: #BFA62A; }
+.Design-gráfico-4-hex { color: #262626; }
+.Design-gráfico-5-hex { color: #0D0D0D; }
+*/
+
+
+html {
+    background:#F2E963;
+    color: #262626;
+}
+a {
+    color: #BFA62A;
+}
